@@ -17,8 +17,8 @@ A model simulating the final Champions League matchday **50,000 times** to predi
 ## 🧮 Methodology
 
 ### 1. Probability Estimation
-- **Match Outcome Probabilities**: Derived from betting odds ([oddschecker.com](https://www.oddschecker.com/)) using implied probability calculations
-- **Score Distributions**: Conditional probabilities based on 5+ years of historical match data ([footystats.org](https://footystats.org/))
+- **Match Outcome Probabilities**: Derived from betting odds using implied probability calculations
+- **Score Distributions**: Conditional probabilities based on 5+ years of historical match data
 
 ### 2. Simulation Engine
 ```r
