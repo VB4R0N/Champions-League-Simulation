@@ -10,7 +10,7 @@ A model simulating the final Champions League matchday **50,000 times** to predi
 ## 📌 Key Features
 - **Monte Carlo simulations** of match outcomes using betting odds and historical score distributions
 - **Interactive Shiny dashboard** for visualizing team-specific probabilities
-- **Reproducible workflows** with full code and data transparency (included csv-files)
+- **Reproducible workflows** with full code and data transparency. I omitted the webscraping techniques, as the results would have been overwritten and this would have prevented reproducibility. Therefore, I attached csv-files I worked with. 
 
 ---
 
